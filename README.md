@@ -60,8 +60,8 @@ _Attribution required. Non-commercial use only. Share alike._
 
 ## 🌐 Learn More
 
-- Website: [https://z-ventures.cc](https://z-ventures.cc)
-- Blog: [https://z-ventures.cc/blog](https://z-ventures.cc/blog)
+- Website: [https://z-ventures.cc](https://z-ventures.cc/?utm_source=github&utm_medium=referral&utm_campaign=branding_repo)
+- Blog: [https://z-ventures.cc/blog](https://z-ventures.cc/blog/?utm_source=github&utm_medium=referral&utm_campaign=branding_repo)
 
 ---
 
